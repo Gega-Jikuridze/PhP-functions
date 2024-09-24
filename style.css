@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+
+p{
+    color: green !important;
+}
+
+div{
+    display: flex;
+    gap: 50px;
+}
+
